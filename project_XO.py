@@ -20,7 +20,6 @@ def show_playing_field():
 
 
 # Ввод координат пользователем
-# Ввод координат пользователем
 def input_coordinates():
     while True:
         coordinates = input("Ваш ход: ").split()
